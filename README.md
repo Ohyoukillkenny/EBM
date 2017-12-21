@@ -2,7 +2,7 @@
 
 Lingkun Kong, Xudong Wu, Hongru Zhu, Luoyi Fu, Xinbing Wang  — *Shanghai Jiao Tong University*
 
-![EBM icon](https://wx1.sinaimg.cn/mw690/3c016788ly1fmojbl6t5dj20m906kwh4.jpg)
+![EBM icon](https://ws1.sinaimg.cn/large/3c016788ly1fmojg90g0hj20m906kwh4.jpg)
 
 ##### We build an Evolving Bipartite Model (EBM) to reveals the bounded weights in social networks by launching a case study in recommendation networks.
 
