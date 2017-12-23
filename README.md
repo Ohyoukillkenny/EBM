@@ -1,6 +1,6 @@
 # EBM
 
-Lingkun Kong, Xudong Wu, Hongru Zhu, Luoyi Fu, Xinbing Wang  — *Shanghai Jiao Tong University*
+Lingkun Kong, Xudong Wu, Hongru Zhu, Luoyi Fu, Xinbing Wang, Guihai Chen  — *Shanghai Jiao Tong University*
 
 ![EBM icon](http://www.z4a.net/images/2017/12/21/EBM.png)
 
